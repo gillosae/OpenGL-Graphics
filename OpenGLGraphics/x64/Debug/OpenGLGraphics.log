@@ -1,0 +1,3 @@
+﻿  20173305 basic_buffers.cpp
+E:\code\codeforcode\OpenGL-Graphics\OpenGLGraphics\20173305 basic_buffers.cpp(60,2): warning C4305: '초기화 중': 'double'에서 'const GLfloat'(으)로 잘립니다.
+  OpenGLGraphics.vcxproj -> E:\code\codeforcode\OpenGL-Graphics\x64\Debug\OpenGLGraphics.exe

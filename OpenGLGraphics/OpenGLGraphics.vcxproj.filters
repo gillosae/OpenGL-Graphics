@@ -18,5 +18,51 @@
     <ClCompile Include="OpenGLGraphics.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="basic_1_triangle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="glusupport.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="basic.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="basicGLSL.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="basic_1_square.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20173305 basic_buffers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="basic_buffers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="f1.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="v1.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="f_buffers1.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="f_buffers2.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="v_buffers1.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="v_buffers2.glsl">
+      <Filter>리소스 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>
